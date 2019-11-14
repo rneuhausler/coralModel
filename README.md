@@ -1,8 +1,19 @@
 
 # coralModel
 
+## Authors:
+
+Rosanna Neuhausler, Maria Bruna, and Martin Robinson
+
+## Acknowledgement
+
+This material is based upon work supported by the National Science Foundation under Grant No. DGE-1450053
 
 ----
+
+Hello potential coralModel user! This code is an early, but still working, iteration of an ongoing project. If you wish to use a more updated version, or have any questions regarding this version, please email me at rneuhausler@berkeley.edu.
+
+
 For the purpose of drawing attention to specific parts of the python code throughout this introduction, I substitute non-focused on parts of the code with:
 ```python
      .
